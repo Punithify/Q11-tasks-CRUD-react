@@ -1,8 +1,15 @@
-# React + Vite
+# Q11-tasks-CRUD-react
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+```bash
+ git clone https://github.com/Punithify/Q11-tasks-CRUD-react.git
+```
 
-Currently, two official plugins are available:
+## Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Install vite-project with npm
+
+```bash
+  cd Q11-tasks-CRUD-react
+  npm install
+  npm run dev
+```
